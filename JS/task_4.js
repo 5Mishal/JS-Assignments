@@ -1,0 +1,1 @@
+console.log('Allama Iqbal once said, "Islam is itself destiny and will not suffer destiny."')
